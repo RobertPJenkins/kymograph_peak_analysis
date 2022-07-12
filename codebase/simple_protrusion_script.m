@@ -1,6 +1,6 @@
 clear
-input_directory = 'X:\working\Rob\David\kymograph_analysis\kymograph_data\dataset_1\input\';
-output_directory = 'X:\working\Rob\David\kymograph_analysis\kymograph_data\dataset_1\output\';
+input_directory = 'C:\input_directory\dataset\input\';
+output_directory = 'C:\input_directory\dataset\output\';
 time_scale=16;
 pixel_scale=0.2;
 threshold=0.25;
