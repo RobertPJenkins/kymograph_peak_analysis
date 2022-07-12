@@ -17,6 +17,8 @@ input_file_type: .txt file. No other file type has been tested for input values
 compiled_matlab_data_name: Name of output MATLAB file
 compiled_csv_data_name: Name of output csv file
 
+Functionality has been tested on Windows only.
+
 
 ## Contributing
 
